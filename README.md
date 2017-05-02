@@ -1,3 +1,3 @@
 # hello-world
-following the github tutorial
-Following the instructions: Write a bit about myself - I am an aspiring software engenieer
+Fllowing the github tutorial.
+Following the instructions: "Write a bit about myself" -- Im an aspiring software engenieer.
