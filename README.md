@@ -5,4 +5,5 @@
 3. Adding a Jekyll theme.
 4. Updating pages with relavant information as I learn new tricks.
 
-### [Home: Mr. Pride's Portfolio](https://sparklyspencer.github.io/)
+<hr/>
+<h2><a href="https://sparklyspencer.github.io/">Previous: Mr. Pride's Portfolio</a></h2>
